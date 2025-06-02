@@ -1,0 +1,8 @@
+pip install these modules/packages
+yt-dlp
+tkinter
+
+ffmeg: Download from: https://www.gyan.dev/ffmpeg/builds/
+Extract the folder, and add the bin directory to your System PATH environment variable
+Restart your terminal or PC to apply
+
